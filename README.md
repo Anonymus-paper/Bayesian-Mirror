@@ -75,4 +75,4 @@ The design is the TCGA glioblastoma (GBM) gene expression data, Affymetrix HT_HG
 python real_analysis.py
 ```
 
-The options `--reps`, `-
+The options `--reps`, `--n-jobs`, `--seed` and `--out-dir` work as above. 
